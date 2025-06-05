@@ -31,8 +31,7 @@
 
 ## 📫 Vamos conectar?
 
-[![LinkedIn](www.linkedin.com/in/caducdev)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/caducdev)
 
 ---
 
